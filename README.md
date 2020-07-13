@@ -1,4 +1,4 @@
-# Project-1
+# Project #1
 
 Data was retrieved from the NOAA PSL Climate Data Repository: https://psl.noaa.gov/repository/entry/show?entryid=c83ebd2b-f6f5-42e4-ae52-39a807ed594c under the ncep.reanalysis2 section
 
